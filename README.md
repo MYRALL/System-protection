@@ -48,7 +48,7 @@
 
 استنساخ المستودع
 
-git clone https://github.com/USERNAME/REPO-NAME.git
+<pre> ```bash git clone https://github.com/USERNAME/REPO-NAME.git ``` </pre>
 
 
 تنفيذ أداة التنظيف
